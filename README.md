@@ -11,4 +11,4 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ### 项目
-[![ReturnVisitRobot](https://img.shields.io/badge/pythondict-quant-192133?style=flat-square)](https://github.com/Ulov888/ReturnVisitRobot)
+[![ReturnVisitRobot](https://img.shields.io/badge/ReturnVisitRobot-192133?style=flat-square)](https://github.com/Ulov888/ReturnVisitRobot)
