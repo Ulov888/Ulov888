@@ -12,3 +12,5 @@
 
 ### 项目
 [![ReturnVisitRobot](https://img.shields.io/badge/ReturnVisitRobot-192133?style=flat-square)](https://github.com/Ulov888/ReturnVisitRobot)
+[![PictureRestoration](https://img.shields.io/badge/ReturnVisitRobot-192133?style=flat-square)](https://github.com/Ulov888/PictureRestoration)
+
